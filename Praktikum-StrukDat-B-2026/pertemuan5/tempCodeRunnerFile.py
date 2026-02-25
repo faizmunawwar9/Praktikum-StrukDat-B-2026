@@ -1,0 +1,1 @@
+nilai_tugas.append(100)
